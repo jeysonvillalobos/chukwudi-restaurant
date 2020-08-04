@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chukwudi-restaurant/precache-manifest.d069cbda1790238b3d6dea2ef81d112f.js"
+  "/chukwudi-restaurant/precache-manifest.4e7209a257d6b349f5e16d51edc6a8eb.js"
 );
 
 self.addEventListener('message', (event) => {

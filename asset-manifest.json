@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/chukwudi-restaurant/static/css/main.2dfe18f0.chunk.css",
-    "main.js": "/chukwudi-restaurant/static/js/main.1da0d5d5.chunk.js",
-    "main.js.map": "/chukwudi-restaurant/static/js/main.1da0d5d5.chunk.js.map",
+    "main.js": "/chukwudi-restaurant/static/js/main.37bb6d9f.chunk.js",
+    "main.js.map": "/chukwudi-restaurant/static/js/main.37bb6d9f.chunk.js.map",
     "runtime-main.js": "/chukwudi-restaurant/static/js/runtime-main.7240296c.js",
     "runtime-main.js.map": "/chukwudi-restaurant/static/js/runtime-main.7240296c.js.map",
     "static/css/2.9c8c8187.chunk.css": "/chukwudi-restaurant/static/css/2.9c8c8187.chunk.css",
-    "static/js/2.42bc7fa7.chunk.js": "/chukwudi-restaurant/static/js/2.42bc7fa7.chunk.js",
-    "static/js/2.42bc7fa7.chunk.js.map": "/chukwudi-restaurant/static/js/2.42bc7fa7.chunk.js.map",
+    "static/js/2.2d7fadd8.chunk.js": "/chukwudi-restaurant/static/js/2.2d7fadd8.chunk.js",
+    "static/js/2.2d7fadd8.chunk.js.map": "/chukwudi-restaurant/static/js/2.2d7fadd8.chunk.js.map",
     "index.html": "/chukwudi-restaurant/index.html",
-    "precache-manifest.d069cbda1790238b3d6dea2ef81d112f.js": "/chukwudi-restaurant/precache-manifest.d069cbda1790238b3d6dea2ef81d112f.js",
+    "precache-manifest.4e7209a257d6b349f5e16d51edc6a8eb.js": "/chukwudi-restaurant/precache-manifest.4e7209a257d6b349f5e16d51edc6a8eb.js",
     "service-worker.js": "/chukwudi-restaurant/service-worker.js",
     "static/css/2.9c8c8187.chunk.css.map": "/chukwudi-restaurant/static/css/2.9c8c8187.chunk.css.map",
     "static/css/main.2dfe18f0.chunk.css.map": "/chukwudi-restaurant/static/css/main.2dfe18f0.chunk.css.map",
-    "static/js/2.42bc7fa7.chunk.js.LICENSE.txt": "/chukwudi-restaurant/static/js/2.42bc7fa7.chunk.js.LICENSE.txt",
+    "static/js/2.2d7fadd8.chunk.js.LICENSE.txt": "/chukwudi-restaurant/static/js/2.2d7fadd8.chunk.js.LICENSE.txt",
     "static/media/1046784.svg": "/chukwudi-restaurant/static/media/1046784.96c00f56.svg",
     "static/media/109617.svg": "/chukwudi-restaurant/static/media/109617.279196e3.svg",
     "static/media/118740.svg": "/chukwudi-restaurant/static/media/118740.1ee4c3ee.svg",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.7240296c.js",
     "static/css/2.9c8c8187.chunk.css",
-    "static/js/2.42bc7fa7.chunk.js",
+    "static/js/2.2d7fadd8.chunk.js",
     "static/css/main.2dfe18f0.chunk.css",
-    "static/js/main.1da0d5d5.chunk.js"
+    "static/js/main.37bb6d9f.chunk.js"
   ]
 }
