@@ -1,0 +1,531 @@
+@media only screen and (min-width:1800px){
+    .section-body-container{
+        margin: 0 auto;
+    }
+
+
+    /*------- foods --------*/
+    .food {
+        max-width: 309px;
+    }
+    .puntation span {
+        font-size: 16px;
+    }
+    .star {
+        width: 20px;
+    }
+    .foodDescription h4 {
+        font-size: 25px;
+    }
+
+}
+
+@media only screen and (max-width:1440px){
+
+    /*------- section-body-container --------*/
+    .section-body-container {
+        margin-left: 80px;
+    }
+
+
+
+    /*------- banner --------*/
+    .banner-text h1 {
+        font-size: 2vw;
+        margin-right: 2vw;
+    }
+    .banner-text p {
+        margin-right: 5vw;
+        font-size: 1vw;
+    }
+    .hat {
+        margin-left: 1vw;
+    }
+    .hatIcon {
+        width: 2vw;
+    }
+    .banner-more a {
+        font-size: 1vw;
+    }
+    .banner-img {
+        margin-left: 3vw;
+        bottom: 2.6vw;
+    }
+
+    /*------- categories --------*/
+    .categories h1 {
+        font-size: 2.4vw;
+    }
+    .delivery-time {
+        width: 15vw;
+        height: 3vw;
+    }
+    .clock {
+        width: 2vw;
+    }
+    .shortRightArrow {
+        width: 1vw;
+    }
+
+    /*------- section-order --------*/
+    .section-order{
+        width: 22vw;
+    }
+    .info1, .info2 {
+        font-size: 1vw;
+    }
+    .iconClockInfo2 {
+        width: 1.5vw;
+        height: 1.5vw;
+    }
+    .yellowClock {
+        width: 1.5vw;
+    }
+    .product {
+        font-size: 0.9vw;
+    }
+    .productImg,.productImgDelivery {
+        width: 6vw;
+        margin-right: 1vw;
+    }
+    .subtitlePerson {
+        font-size: 1vw;
+    }
+    .quantityPersons {
+        width: 7vw;
+    }
+    .checkout span {
+        font-size: 1.1vw;
+        margin: 0.7vw;
+    }
+    .rightArrow {
+        width: 1.5vw;
+    }
+
+    /*------- foods --------*/
+    .food {
+        margin-right: 2vw;
+    }
+
+}
+@media only screen and (max-width:1024px){
+
+    /*------- .section-order --------*/
+    .orderInformation {
+        height: 90px;
+    }
+    .quantityProducts {
+        width: 38px;
+        height: 30px;
+    }
+    .orderLogin{
+        font-size: 12px;
+    }
+    
+}
+
+@media only screen and (max-width:900px){
+    /*------- .section-order --------*/
+    .section-order{
+        overflow: scroll;
+    }  
+    .orderLogin{
+        margin: 0px !important;
+    }
+}
+
+
+@media only screen and (max-width:800px){
+
+    /*------- .section-order --------*/
+    .section-order{
+        z-index: 100;
+        visibility: hidden;
+        overflow: scroll;
+    }  
+    .backArrow{
+        display: block;
+    }
+    .orderBody {
+        height: 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .orderTitle {
+        width: 135px;
+    } 
+    
+    .orderInformation {
+        width: 40%;
+    }
+    .more{
+        display: block;
+    }
+    .section-body-container {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .quantityPersons {
+        width: 130px;
+    }
+    .subtitlePerson {
+        font-size: 20px;
+    }
+    .product {
+        height: 50px;
+        font-size: 13px;
+        margin-bottom: 8px;
+    }
+    .productImg, .productImgDelivery {
+        width: 70px;
+    }
+    .info1, .info2 {
+        font-size: 13px;
+    }
+    .checkout span {
+        font-size: 15px;
+    }
+
+    /*------- banner--------*/
+    .banner {
+        margin-top: 55px;
+    }
+    .banner-img {
+        bottom: 4vw;
+    }
+    .banner-text {
+        align-items: center;
+        text-align: center;
+    }
+    .hatIcon {
+        width: 3vw;
+    }
+    .banner-text h1 {
+        font-size: 3vw;
+        margin-right: 5vw;
+    }
+    .banner-text p {
+        margin-right: 8vw;
+        font-size: 1.5vw;
+    }
+    .banner-more a {
+        font-size: 1.5vw;
+    }
+
+    /*------- categories--------*/
+    .delivery-time {
+        width: 180px;
+        height: 40px;
+    }
+    .categories h1 {
+        font-size: 3vw;
+    }
+    .clock {
+        width: 2.4vw;
+    }
+    .shortRightArrow {
+        width: 1.5vw;
+    }
+
+
+    /*------- foods --------*/
+    .food {
+        width: 28vw;
+    }
+    .foodDescription h4 {
+        font-size: 2.3vw;
+    }
+    .puntation span {
+        font-size: 2vw;
+    }
+    .star {
+        width: 2vw;
+    }
+
+
+}
+
+@media only screen and (max-width:600px){
+
+    /*--------- 1.1 bodyHeader ---------*/
+    .bodyHeader {
+        height: 40px;
+    }
+    .headerTitle {
+        font-size: 19px;
+    }
+    .input {
+        width: 380px;
+    }
+    .inputSearch {
+        width: 77%;
+    }
+
+    /*------- banner--------*/
+    .banner {
+        width: 100%;
+        height: 172px;
+    }
+    .hat {
+        display: none;
+    }
+    .banner-img {
+        bottom: 6.6vw;
+    }
+    .banner-text p {
+        margin-right: 5vw;
+    }
+    .banner-more {
+        width: 35%;
+    }
+    .banner-text h1 {
+        font-size: 2.9vw;
+    }
+
+    /*------- .section-order --------*/
+    .orderInformation {
+        width: 50%;
+        height: 103px;
+    }
+    .iconClockInfo2 {
+        width: 40px;
+        height: 30px;
+    }
+    .yellowClock {
+        width: 18px;
+    }
+
+}
+
+
+@media only screen and (max-width:500px){
+    /*------- banner--------*/
+    .banner-text p {
+        font-size: 2vw;
+    }
+    .banner-more {
+        width: 60%;
+    }
+    .banner-more a {
+        font-size: 1.9vw;
+    }
+    .banner-img {
+        bottom: 4.6vw;
+    }
+    .banner-text {
+        text-align: center;
+    }
+
+    /*------- categories--------*/
+    .clock {
+        width: 3.4vw;
+    }
+    .shortRightArrow {
+        width: 2.5vw;
+    }
+    .categories h1 {
+        font-size: 4vw;
+    }
+    
+    /*------- foods --------*/
+
+    .food {
+        width: 100%;
+    }
+    .foodDescription h4 {
+        font-size: 6vw;
+    }
+    .star {
+        width: 3vw;
+    }
+    .puntation span {
+        font-size: 3vw;
+    }
+    .foodImg {
+        height: 180px;
+    }
+
+    /*------- .section-order --------*/
+    .orderInformation {
+        width: 70%;
+    }
+
+}
+
+@media only screen and (max-width:400px){
+    .banner-img {
+        width: 100px;
+    }
+
+    /*--------- 1.1 bodyHeader ---------*/
+    .two-lines {
+        width: 30px;
+    }
+    .headerTitle {
+        font-size: 18px;
+        margin: 0px 30px 0px 12px;
+    }   
+    .input {
+        width: 236px;
+    } 
+
+    /*------- banner--------*/
+    .banner {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .banner-img{
+        margin: 0;
+    }
+    .banner-more {
+        align-items: center;
+        justify-content: center;
+    }
+    .banner-text h1 {
+        font-size: 4.9vw;
+    }
+    .banner-text p {
+        font-size: 3vw;
+    }
+    .banner-more a {
+        font-size: 3vw;
+    }
+
+    /*------- categories--------*/
+    .categories h1 {
+        font-size: 5vw;
+    }
+    .burger{
+        display: none;
+    }
+    .delivery-time {
+        width: 150px;
+        height: 35px;
+    }
+    .clock {
+        width: 4.4vw;
+    }
+    .delivery-time p {
+        font-size: 12px;
+    }
+    .shortRightArrow {
+        width: 3.5vw;
+    }
+    .arrowNext {
+        width: 15%;
+    }
+
+    /*------- foods --------*/
+    .puntation span {
+        font-size: 4vw;
+    }
+    .star {
+        width: 4.4vw;
+    }
+
+    /*------- section-order --------*/
+    .orderInformation {
+        width: 80%;
+    }
+    .quantityPersons {
+        width: 110px;
+    }
+
+}
+
+@media only screen and (max-width:350px){
+
+    /*--------- 1.1 bodyHeader ---------*/
+    .two-lines {
+        width: 25px;
+    }
+    .headerTitle {
+        margin: 0px 9px 0px 12px;
+    }
+    .input {
+        width: 184px;
+    }
+    .inputSearch {
+        font-size: 13px;
+    }
+
+    /*------- categories--------*/
+    .arrowNext {
+        width: 18%;
+    }
+
+    /*------- section-order --------*/
+    .orderInformation {
+        width: 90%;
+    }
+
+}
+
+@media only screen and (max-height:500px) and (orientation: landscape){
+
+    /*--------- section-order --------*/
+    .section-order{
+        visibility: hidden;
+    }   
+    .more{
+        display: block;
+    }
+    .section-body-container {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    /*---------- banner --------*/
+    .banner-img {
+        bottom: 4.2vw;
+    }
+    .banner-text {
+        align-items: center;
+    }
+
+
+    /*------- section-order --------*/
+    .orderFooter {
+        margin-top: 50px;
+    }
+    
+}
+
+
+@media only screen and (max-height:430px) and (orientation: landscape){
+    /*------- section-order --------*/
+    .section-order-container {
+        height: 150%;
+    }
+}
+
+@media only screen and (max-height:400px) and (orientation: landscape){
+    /*------- section-order --------*/
+    .section-order-container {
+        height: 160%;
+    }
+}
+
+@media only screen and (max-height:300px) and (orientation: landscape){
+   /*------- section-order --------*/
+   .section-order-container {
+        height: 190%;
+    }
+}
+
+@media only screen and (max-height:270px) and (orientation: landscape){
+    /*------- section-order --------*/
+    .section-order-container {
+         height: 210%;
+     }
+ }
+
+
+
+
+
+
+
+
