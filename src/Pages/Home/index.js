@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import firebase from 'firebase';
+import firebase from 'firebase/app';
+import 'firebase/auth';
 import { message } from 'antd';
 import './Home.css';
 import './HomeResponsive.css';
@@ -54,7 +55,7 @@ class App extends Component {
     }
 
     getData(file){
-        fetch(`./api/${file}.json`)
+        fetch(`${process.env.PUBLIC_URL}/api/${file}.json`)
             .then(rel => rel.json())
             .then(rel => this.setState({ [file]:rel }));
     }
