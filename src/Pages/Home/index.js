@@ -13,13 +13,13 @@ import Foods from '../../Components/Foods';
 import Order from '../../Components/Order';
 
 firebase.initializeApp({
-    apiKey: "AIzaSyAKieptJuAgORwcEx0lIM3L9kQO3S3cZxQ",
-    authDomain: "chukwudi-5b4d8.firebaseapp.com",
-    databaseURL: "https://chukwudi-5b4d8.firebaseio.com",
-    projectId: "chukwudi-5b4d8",
-    storageBucket: "chukwudi-5b4d8.appspot.com",
-    messagingSenderId: "354709183632",
-    appId: "1:354709183632:web:217c9f12b65bc9a605cc15"
+    apiKey: "######",
+    authDomain: "######",
+    databaseURL: "######",
+    projectId: "######",
+    storageBucket: "######",
+    messagingSenderId: "######",
+    appId: "######"
 });
 
 
